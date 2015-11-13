@@ -1,2 +1,2 @@
 # RepoRsch
-Reproducible Research
+Reproducible Research Assignments
